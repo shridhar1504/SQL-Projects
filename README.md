@@ -10,3 +10,9 @@ The data is collected by Loan Lending Institution for many individuals from mult
  * Loan - The dataset has loan id, account id, date, amount, duartion, payment & status. (No. of Records - 682)
  * Order - The dataset has order id, account id, bank to, account to, amount, k_symbol. (No. of Records - 6,471)
  * Transaction Data - The dataset has transaction id, account id, date, type, operation, amount, balance, k_symbol, bank & account. (No. of Records - 10,56,320)
+## _[Pizza Sales Analysis Report](Pizza%20Sales%20Analysis%20Project)
+The Data is from the Pizza Store regarding their Sales and Revenue.
+ * The Sales Data is shared for the year 2015 and has 48,620 sales records.
+ * The data has various factors such as pizza id, order id, pizza name id, quantity, order date, order time, unit price, total price, pizza size, pizza category, pizza ingredient and pizza name.
+ * The Sales report is analysed to get further insights about sales and revenue.
+ * By using SQL query commands, getting insights for the analysis report.
