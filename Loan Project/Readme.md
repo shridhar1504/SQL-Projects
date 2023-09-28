@@ -9,7 +9,8 @@ The main objective of the project is to create and manage relationship using daa
  * Mapping the relationship between Merged Account and Order Data with Card, Disposition, Client and District Data using *district_id* as a factor by left join.
  * Forming Master Table by joining the merged Account, Order, Card, Disposition, Client, District Data with merged Transaction Data and Loan Data using *account_id* as a factor.
 
-    The image gives detailed brief about how the relationship mapping works.
+
+   - The image gives detailed brief about how the relationship mapping works.
 
    ![image](https://github.com/shridhar1504/SQL-Projects/assets/113985416/79bd2476-cd40-4565-bbc8-7f7ea351c265)
 
